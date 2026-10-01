@@ -1,3 +1,6 @@
+# Meal_Manager
+Restaurant Management System
+
 For Backend code see backend branch
 For frontend Code see Frontend branch
 
